@@ -79,7 +79,7 @@ function tienenMismaLongitud(str1, str2) {
   if (str1.length == str2.length) {
     return true;
   }
-    reutrn false;
+    return false;
 }
 
 function menosQueNoventa(num) {
@@ -181,18 +181,19 @@ function esPositivo(numero) {
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
   if (numero > 0){
-    return('Es positivo');
+    return ('Es positivo');
    
-    } else if (numero == 0){
-        return false;
+    } 
 
-  }
-  else (numero < 0){
+  else if (numero < 0) {
     return('Es negativo');
 
   }
-
+  else  (numero == 0)
+    return false;
 }
+
+
 
 function agregarSimboloExclamacion(str) {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
