@@ -1,0 +1,20 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables: Es una manera de guardar algo para ser usado mas adelante.
+	
+    * Strings: son lineas de texto compuestas tanto por numeros o letras, pero siempre tienen que ir en medio de comillas
+               simples (' ') o comillas dobles (" "). 
+	
+    * Funciones (argumentos, `return`): las funciones son objetos  conformados por varias instrucciones en donde mas adelante
+                pueden ser llamados y ejecutar o calcular las ordenes que tengan dentro. 
+
+                El argumento es el valor o las tareas que debe ejecutar la funcion.
+
+                Return, es una declaracion en donde nos va a tirar el resultado de los argumentos.
+	
+    * Declaraciones `if`: es una condicion en donde podemos obtener un valor u otro, colocando el if podemos agregar un
+                          argumento y si es cierto tirar un dato, y si no es asi tirara otro dato. un ejemplo
+                          seria  usar true o false.   
+	
+    * Valores booleanos (`true`, `false`): son valores que determinan si un dato es verdadero o falso, ademas de que se 
+                        puede usar como una condicion para ejecutar o no ciertas lineas de comando.
