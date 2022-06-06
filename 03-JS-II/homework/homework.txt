@@ -7,7 +7,7 @@
 
 
 
-* `&&`, `||`, `!` : son operadores logicos y se usan para concatenar varias expresiones
+* `&&`, `||`, `!` : son operadores logicos y  se usan para concatenar varias expresiones
 
 
                    && Operador "y" (AND) 

@@ -6,7 +6,7 @@
                simples (' ') o comillas dobles (" "). 
 	
     * Funciones (argumentos, `return`): las funciones son objetos  conformados por varias instrucciones en donde mas adelante
-                pueden ser llamados y ejecutar o calcular las ordenes que tengan dentro. 
+                pueden ser llamados y  ejecutar o calcular las ordenes que tengan dentro. 
 
                 El argumento es el valor o las tareas que debe ejecutar la funcion.
 
